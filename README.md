@@ -1,5 +1,7 @@
 # Bravelab's Audiostack API test
 
+[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+
 - brew install ffmpeg
 - install virtualenv
 - python3 -m venv env
