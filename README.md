@@ -1,4 +1,4 @@
-# Bravelab's Audiostack API test
+# MusicTech Lab's Audiostack API test
 
 [![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
 
